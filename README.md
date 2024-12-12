@@ -1,4 +1,4 @@
-﻿# GitHub Followers
+# GitHub Followers
 
 This iOS mobile app allows you to view the followers of any GitHub user by their username. Using requests to the GitHub API, the app retrieves necessary information such as name, avatar, number of repositories, and displays it on the screen with custom UI elements.
 
@@ -21,7 +21,7 @@ This project was created as part of Sean Allen’s course and provides practical
 > You can clone this repository to test it by using the corresponding
 > button or by running the following command in the console
 
-    git clone https://github.com/yourusername/project-name.git
+    git clone https://github.com/Cmetanka1337/GitHub-Followers.git
 
 #
 ![enter image description here](https://i.postimg.cc/kXYHBLby/temp-Imagez-A7-AK4.avif)
